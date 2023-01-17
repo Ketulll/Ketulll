@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ketulll
 - 👀 I’m interested in learning something new
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on some project in Power BI
 
 <!---
