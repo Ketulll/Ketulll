@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on some project in Power BI
 
-- 📪 How to find me : @Linkedin@https://www.linkedin.com/in/ketul-patel-a977b3242/
+- 📪 How to find me : [Linkedin](https://www.linkedin.com/in/ketul-patel-a977b3242/)
 
 
 💡Skills💡:
