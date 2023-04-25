@@ -12,7 +12,7 @@
 
 - 📄 [Resume](https://drive.google.com/file/d/11RND51lU8vhrKZNC9RRdC1KYUuCEH3Sd/view?usp=sharing)
 
-- 🌐 [Web Portfolio](https://ketulll.github.io/KetulPatel.github.io/]
+- 🌐 [Web Portfolio](https://ketulll.github.io/KetulPatel.github.io/)
 
 
 💡Skills💡:
