@@ -10,6 +10,10 @@
 
 - 📪 How to find me : [Linkedin](https://www.linkedin.com/in/ketul-patel-a977b3242/)
 
+- 📄 [Resume](https://drive.google.com/file/d/11RND51lU8vhrKZNC9RRdC1KYUuCEH3Sd/view?usp=sharing)
+
+- 🌐 [Web Portfolio](https://ketulll.github.io/KetulPatel.github.io/]
+
 
 💡Skills💡:
 
