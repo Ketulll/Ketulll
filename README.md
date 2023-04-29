@@ -14,7 +14,7 @@
 
 - 🌐 [Web Portfolio](https://ketulll.github.io/KetulPatel.github.io/)
 
-- [tableau_icon](https://user-images.githubusercontent.com/109168936/235293286-d3f2e3fd-2c3b-4f4f-ae8f-30549523c0b1.png)
+- [Tableau](https://public.tableau.com/app/profile/ketul.patel7862)
 
 
 💡Skills💡:
