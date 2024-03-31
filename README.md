@@ -4,8 +4,6 @@
 ✨ About Me✨
 - 👀 I’m addicted to Data Analysis and I love learning something new
 
-- 🌱 I’m currently learning Tableau
-
 - 💞️ I’m looking to collaborate on some project in Power BI
 
 - 📪 How to find me : [Linkedin](https://www.linkedin.com/in/ketul-patel-a977b3242/)
@@ -18,9 +16,10 @@
 
 
 💡Skills💡:
-
+- Looker Studio
 - Microsoft SQL Server
 - Microsoft EXCEL
+- Google Sheet
 - Microsoft Power BI
 - Python
 - Tableau
